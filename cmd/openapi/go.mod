@@ -6,8 +6,8 @@ require (
 	github.com/charmbracelet/bubbles v1.0.0
 	github.com/charmbracelet/bubbletea v1.3.10
 	github.com/charmbracelet/lipgloss v1.1.0
-	github.com/speakeasy-api/openapi v1.25.1-0.20260826000718-9925d69ccf10
-	github.com/speakeasy-api/openapi/openapi/linter/customrules v0.0.0-20260826000718-9925d69ccf10
+	github.com/speakeasy-api/openapi v1.25.2-0.20260920052111-e70ae27ae5d7
+	github.com/speakeasy-api/openapi/openapi/linter/customrules v0.0.0-20260920052111-e70ae27ae5d7
 	github.com/spf13/cobra v1.10.2
 	github.com/stretchr/testify v1.12.1
 	gopkg.in/yaml.v3 v3.0.1
